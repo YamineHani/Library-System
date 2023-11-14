@@ -1,0 +1,11 @@
+backend\LibrarianRole.class
+backend\StudentBookDatabase.class
+com\mycompany\gui\Gui.class
+backend\Information.class
+backend\LibrarianUser.class
+backend\AdminRole.class
+backend\StudentBook.class
+backend\Book.class
+backend\Database.class
+backend\LibrarianUserDatabase.class
+backend\BookDatabase.class
